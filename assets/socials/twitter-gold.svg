@@ -1,0 +1,22 @@
+<svg width="50" height="51" viewBox="0 0 50 51" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group">
+<g id="Clip path group">
+<mask id="mask0_281_1457" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="50" height="51">
+<g id="primeTwitter0">
+<path id="Vector" d="M0 0.333252H50V50.3333H0V0.333252Z" fill="white"/>
+</g>
+</mask>
+<g mask="url(#mask0_281_1457)">
+<g id="Group_2">
+<path id="Vector_2" d="M39.375 2.67603H47.0429L30.2929 21.8689L50 47.9903H34.5714L22.4786 32.151L8.65714 47.9903H0.982143L18.8964 27.4546L0 2.6796H15.8214L26.7357 17.1546L39.375 2.67603ZM36.6786 43.3903H40.9286L13.5 7.03674H8.94286L36.6786 43.3903Z" fill="url(#paint0_linear_281_1457)"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_281_1457" x1="25" y1="2.67603" x2="25" y2="47.9903" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F2DC4C"/>
+<stop offset="1" stop-color="#666666"/>
+</linearGradient>
+</defs>
+</svg>
